@@ -9,3 +9,6 @@ DSA problem sheet solution in python
 
 ### 3. Rotate Array
 ### https://leetcode.com/problems/rotate-array/
+
+### 4. Move Zeroes
+### https://leetcode.com/problems/move-zeroes/
