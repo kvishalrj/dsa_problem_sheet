@@ -6,3 +6,6 @@ DSA problem sheet solution in python
 
 ### 2. Remove Duplicates from Sorted Array
 ### https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+### 3. Rotate Array
+### https://leetcode.com/problems/rotate-array/
