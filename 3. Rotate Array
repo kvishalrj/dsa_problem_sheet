@@ -1,0 +1,10 @@
+def rotate(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        n = len(nums)
+        k = k%n
+        if k==0 or n==1:
+            return nums
+        nums[:k], nums[k:] = nums[-k:], nums[:-k]
+        return nums
