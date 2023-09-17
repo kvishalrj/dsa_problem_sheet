@@ -1,0 +1,12 @@
+def missingNumber(self, nums: List[int]) -> int:
+
+        n = len(nums)
+        su = 0
+
+        for i in range(n+1):
+            su ^= i
+
+        for i in nums:
+            su ^= i
+
+        return su
