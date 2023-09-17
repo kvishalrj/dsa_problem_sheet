@@ -1,0 +1,9 @@
+def singleNumber(self, nums: List[int]) -> int:
+        n = len(nums)
+        if n==1:
+            return nums[0]
+        s = 0
+        for i in range(n):
+            s ^= nums[i]
+
+        return s
