@@ -18,3 +18,6 @@ DSA problem sheet solution in python
 
 ### 6. Max Consecutive Ones
 ### https://leetcode.com/problems/max-consecutive-ones/
+
+### 7. Single Number
+### https://leetcode.com/problems/single-number/
