@@ -12,3 +12,6 @@ DSA problem sheet solution in python
 
 ### 4. Move Zeroes
 ### https://leetcode.com/problems/move-zeroes/
+
+### 5. Missing Number
+### https://leetcode.com/problems/missing-number/
