@@ -21,3 +21,6 @@ DSA problem sheet solution in python
 
 ### 7. Single Number
 ### https://leetcode.com/problems/single-number/
+
+### 8. Two Sum
+### https://leetcode.com/problems/two-sum/
