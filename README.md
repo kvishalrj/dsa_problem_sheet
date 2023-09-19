@@ -24,3 +24,6 @@ DSA problem sheet solution in python
 
 ### 8. Two Sum
 ### https://leetcode.com/problems/two-sum/
+
+### 9. Sort Colors
+### https://leetcode.com/problems/sort-colors/
