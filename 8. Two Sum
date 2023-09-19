@@ -1,0 +1,9 @@
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+        s = {}
+        res = []
+        for ind,ele in enumerate(nums):
+            a = target-ele
+            if a not in s:
+                s[ele]=ind
+            else:
+                return [s[target-ele],ind]
