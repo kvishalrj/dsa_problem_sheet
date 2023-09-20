@@ -27,3 +27,6 @@ DSA problem sheet solution in python
 
 ### 9. Sort Colors
 ### https://leetcode.com/problems/sort-colors/
+
+### 10. Majority Element
+### https://leetcode.com/problems/majority-element/
