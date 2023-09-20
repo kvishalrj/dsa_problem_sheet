@@ -30,3 +30,6 @@ DSA problem sheet solution in python
 
 ### 10. Majority Element
 ### https://leetcode.com/problems/majority-element/
+
+### 11. Maximum Subarray (Kadane's algorithm)
+### https://leetcode.com/problems/maximum-subarray/
