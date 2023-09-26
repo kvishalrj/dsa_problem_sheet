@@ -33,3 +33,6 @@ DSA problem sheet solution in python
 
 ### 11. Maximum Subarray (Kadane's algorithm)
 ### https://leetcode.com/problems/maximum-subarray/
+
+### 12. Best Time to Buy and Sell Stock
+### https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
