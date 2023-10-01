@@ -1,0 +1,14 @@
+def rearrangeArray(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        arr = [0]*n
+        po = 0
+        ne = 1
+        for i in range(n):
+            if nums[i]>0:
+                arr[po] = nums[i]
+                po += 2
+            else:
+                arr[ne] = nums[i]
+                ne += 2
+        
+        return arr
