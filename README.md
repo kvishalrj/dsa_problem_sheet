@@ -39,3 +39,6 @@ DSA problem sheet solution in python
 
 ### 13. Rearrange Array Elements by Sign
 ### https://leetcode.com/problems/rearrange-array-elements-by-sign/
+
+### 14. Next Permutation
+### https://leetcode.com/problems/next-permutation/
