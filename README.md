@@ -42,3 +42,6 @@ DSA problem sheet solution in python
 
 ### 14. Next Permutation
 ### https://leetcode.com/problems/next-permutation/
+
+### 15. Longest Consecutive Sequence
+### https://leetcode.com/problems/longest-consecutive-sequence/
