@@ -45,3 +45,6 @@ DSA problem sheet solution in python
 
 ### 15. Longest Consecutive Sequence
 ### https://leetcode.com/problems/longest-consecutive-sequence/
+
+### 16. Set Matrix Zeroes
+### https://leetcode.com/problems/set-matrix-zeroes/
