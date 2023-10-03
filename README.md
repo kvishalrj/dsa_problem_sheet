@@ -48,3 +48,6 @@ DSA problem sheet solution in python
 
 ### 16. Set Matrix Zeroes
 ### https://leetcode.com/problems/set-matrix-zeroes/
+
+### 17. Rotate Image
+### https://leetcode.com/problems/rotate-image/
