@@ -51,3 +51,6 @@ DSA problem sheet solution in python
 
 ### 17. Rotate Image
 ### https://leetcode.com/problems/rotate-image/
+
+### 18. Spiral Matrix
+### https://leetcode.com/problems/spiral-matrix/
