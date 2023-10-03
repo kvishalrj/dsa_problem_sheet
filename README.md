@@ -54,3 +54,6 @@ DSA problem sheet solution in python
 
 ### 18. Spiral Matrix
 ### https://leetcode.com/problems/spiral-matrix/
+
+### 19. Subarray Sum Equals K
+### https://leetcode.com/problems/subarray-sum-equals-k/
