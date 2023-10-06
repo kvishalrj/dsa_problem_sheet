@@ -60,3 +60,6 @@ DSA problem sheet solution in python
 
 ### 20. Pascal's Triangle
 ### https://leetcode.com/problems/pascals-triangle/
+
+### 21. Majority Element II
+### https://leetcode.com/problems/majority-element-ii/
