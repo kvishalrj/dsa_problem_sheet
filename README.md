@@ -57,3 +57,6 @@ DSA problem sheet solution in python
 
 ### 19. Subarray Sum Equals K
 ### https://leetcode.com/problems/subarray-sum-equals-k/
+
+### 20. Pascal's Triangle
+### https://leetcode.com/problems/pascals-triangle/
