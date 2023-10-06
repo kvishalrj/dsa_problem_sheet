@@ -1,0 +1,15 @@
+def majorityElement(self, nums: List[int]) -> List[int]:
+        m = {}
+        st = []
+        n = len(nums)//3
+        for i in nums:
+            if i not in m:
+                m[i] = 1
+            else:
+                m[i] += 1
+
+        for k,v in m.items():
+            if v>n:
+                st.append(k)
+
+        return st
