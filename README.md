@@ -63,3 +63,6 @@ DSA problem sheet solution in python
 
 ### 21. Majority Element II
 ### https://leetcode.com/problems/majority-element-ii/
+
+### 22. 3Sum
+### https://leetcode.com/problems/3sum/
