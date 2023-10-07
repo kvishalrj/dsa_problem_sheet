@@ -66,3 +66,6 @@ DSA problem sheet solution in python
 
 ### 22. 3Sum
 ### https://leetcode.com/problems/3sum/
+
+### 23. 4Sum
+### https://leetcode.com/problems/4sum/
