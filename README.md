@@ -69,3 +69,6 @@ DSA problem sheet solution in python
 
 ### 23. 4Sum
 ### https://leetcode.com/problems/4sum/
+
+### 24. Merge Intervals
+### https://leetcode.com/problems/merge-intervals/
