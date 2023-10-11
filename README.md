@@ -72,3 +72,6 @@ DSA problem sheet solution in python
 
 ### 24. Merge Intervals
 ### https://leetcode.com/problems/merge-intervals/
+
+### 25. Merge Sorted Array
+### https://leetcode.com/problems/merge-sorted-array/
