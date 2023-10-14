@@ -75,3 +75,6 @@ DSA problem sheet solution in python
 
 ### 25. Merge Sorted Array
 ### https://leetcode.com/problems/merge-sorted-array/
+
+### 26. Maximum Product Subarray
+### https://leetcode.com/problems/maximum-product-subarray/
