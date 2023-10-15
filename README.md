@@ -78,3 +78,6 @@ DSA problem sheet solution in python
 
 ### 26. Maximum Product Subarray
 ### https://leetcode.com/problems/maximum-product-subarray/
+
+### 27. Binary Search
+### https://leetcode.com/problems/binary-search/
