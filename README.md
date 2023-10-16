@@ -84,3 +84,6 @@ DSA problem sheet solution in python
 
 ### 28. Search Insert Position
 ### https://leetcode.com/problems/search-insert-position/
+
+### 29. Search in Rotated Sorted Array
+### https://leetcode.com/problems/search-in-rotated-sorted-array/
