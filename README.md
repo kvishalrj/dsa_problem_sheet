@@ -81,3 +81,6 @@ DSA problem sheet solution in python
 
 ### 27. Binary Search
 ### https://leetcode.com/problems/binary-search/
+
+### 28. Search Insert Position
+### https://leetcode.com/problems/search-insert-position/
