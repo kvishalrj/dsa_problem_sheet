@@ -90,3 +90,6 @@ DSA problem sheet solution in python
 
 ### 30. Find First and Last Position of Element in Sorted Array
 ### https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+### 31. Number of occurrence
+### https://www.codingninjas.com/studio/problems/occurrence-of-x-in-a-sorted-array_630456?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
