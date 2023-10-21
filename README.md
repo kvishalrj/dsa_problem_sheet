@@ -96,3 +96,6 @@ DSA problem sheet solution in python
 
 ### 32. Search in Rotated Sorted Array
 ### https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+### 33. Search in Rotated Sorted Array II
+### https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
