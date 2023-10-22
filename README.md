@@ -99,3 +99,6 @@ DSA problem sheet solution in python
 
 ### 33. Search in Rotated Sorted Array II
 ### https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+### 34. Find Minimum in Rotated Sorted Array
+### https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
