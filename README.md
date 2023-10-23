@@ -102,3 +102,6 @@ DSA problem sheet solution in python
 
 ### 34. Find Minimum in Rotated Sorted Array
 ### https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+### 35. Rotation
+### https://www.codingninjas.com/studio/problems/rotation_7449070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
