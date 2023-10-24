@@ -108,3 +108,6 @@ DSA problem sheet solution in python
 
 ### 36. Single Element in a Sorted Array
 ### https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+### 37. Find Peak Element
+### https://leetcode.com/problems/find-peak-element/
