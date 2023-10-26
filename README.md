@@ -111,3 +111,6 @@ DSA problem sheet solution in python
 
 ### 37. Find Peak Element
 ### https://leetcode.com/problems/find-peak-element/
+
+### 38. Square Root of a number
+### https://www.codingninjas.com/studio/problems/square-root-integral_893351?leftPanelTab=0%3Futm_source%3Dstriver&utm_medium=website&utm_campaign=a_zcoursetuf
