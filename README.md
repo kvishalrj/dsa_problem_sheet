@@ -114,3 +114,6 @@ DSA problem sheet solution in python
 
 ### 38. Square Root of a number
 ### https://www.codingninjas.com/studio/problems/square-root-integral_893351?leftPanelTab=0%3Futm_source%3Dstriver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+### 39. Find Nth Root Of A Number
+### https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
