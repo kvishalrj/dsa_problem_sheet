@@ -117,3 +117,6 @@ DSA problem sheet solution in python
 
 ### 39. Find Nth Root Of A Number
 ### https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+### 40. Koko Eating Bananas
+### https://leetcode.com/problems/koko-eating-bananas/
