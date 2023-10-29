@@ -120,3 +120,6 @@ DSA problem sheet solution in python
 
 ### 40. Koko Eating Bananas
 ### https://leetcode.com/problems/koko-eating-bananas/
+
+### 41. Minimum Number of Days to Make m Bouquets
+### https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
