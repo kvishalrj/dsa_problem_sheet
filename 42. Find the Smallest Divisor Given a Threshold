@@ -1,0 +1,24 @@
+import math
+class Solution:
+    def sumDivisor(self, nums: List[int], mid: int) -> int:
+        s = 0
+        for e in nums:
+            s += (math.ceil(e/mid))
+        return s
+
+    def smallestDivisor(self, nums: List[int], threshold: int) -> int:
+        l = 1
+        h = max(nums)
+        ans = 0
+
+        while l<=h:
+            mid = (l+h)//2
+            div = self.sumDivisor(nums, mid)
+            if div<=threshold:
+                ans = mid
+                h = mid - 1
+            else:
+                l = mid + 1
+        return ans
+
+        
