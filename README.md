@@ -126,3 +126,6 @@ DSA problem sheet solution in python
 
 ### 42. Find the Smallest Divisor Given a Threshold
 ### https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+
+### 43. Capacity To Ship Packages Within D Days
+### https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
