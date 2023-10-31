@@ -1,0 +1,26 @@
+class Solution:
+    def requiredDays(self, weights: List[int], mid: int) -> int:
+        day = 1
+        c = 0
+        for e in weights:
+            if c+e>mid:
+                c = e
+                day += 1
+            else:
+                c += e
+        return day
+
+    def shipWithinDays(self, weights: List[int], days: int) -> int:
+        l = max(weights)
+        h = sum(weights)
+        ans = 0
+        while l<=h:
+            mid = (l+h)//2
+            day = self.requiredDays(weights, mid)
+            if day<=days:
+                ans = mid
+                h = mid - 1
+            else:
+                l = mid + 1
+        return ans
+        
