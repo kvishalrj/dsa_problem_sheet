@@ -129,3 +129,6 @@ DSA problem sheet solution in python
 
 ### 43. Capacity To Ship Packages Within D Days
 ### https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+
+### 44. Kth Missing Positive Number
+### https://leetcode.com/problems/kth-missing-positive-number/
