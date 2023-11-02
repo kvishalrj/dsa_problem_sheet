@@ -1,0 +1,33 @@
+def valid(arr: [int], mid: int, n: int, m: int) -> int:
+    s = 0
+    c = 1
+    for e in arr:
+        if s+e<=mid:
+            s += e
+        else:
+            c += 1
+            s = e
+    return c
+
+def findPages(arr: [int], n: int, m: int) -> int:
+
+    # Write your code here
+    # Return the minimum number of pages
+    if m>n:
+        return -1
+    l = max(arr)
+    h = sum(arr)
+    ans = 0
+    while l<=h:
+        mid = (l+h)//2
+        co = valid(arr, mid, n, m)
+        if co==m:
+            ans = mid
+            h = mid - 1
+        else:
+            if co<m:
+                h = mid - 1
+            else:
+                l = mid + 1
+    return ans
+    
