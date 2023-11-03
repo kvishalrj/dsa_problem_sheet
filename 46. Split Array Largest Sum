@@ -1,0 +1,28 @@
+class Solution:
+    def largestSum(self, nums: List[int], mid: int, k: int) -> int:
+        s = 0
+        co = 1
+        for e in nums:
+            if s+e<=mid:
+                s += e
+            else:
+                s = e
+                co += 1
+        return co
+
+    def splitArray(self, nums: List[int], k: int) -> int:
+        l = max(nums)
+        h = sum(nums)
+        ans = 0
+        while l<=h:
+            mid = (l+h)//2
+            co = self.largestSum(nums, mid, k)
+            if co<=k:
+                ans = mid 
+                h = mid - 1
+            else:
+                l = mid + 1
+        return ans
+
+
+        
