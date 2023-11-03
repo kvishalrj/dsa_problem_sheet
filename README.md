@@ -135,3 +135,6 @@ DSA problem sheet solution in python
 
 ### 45. Allocate Books
 ### https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries&leftPanelTabValue=PROBLEM
+
+### 46. Split Array Largest Sum
+### https://leetcode.com/problems/split-array-largest-sum/
