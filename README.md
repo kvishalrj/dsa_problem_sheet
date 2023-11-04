@@ -138,3 +138,6 @@ DSA problem sheet solution in python
 
 ### 46. Split Array Largest Sum
 ### https://leetcode.com/problems/split-array-largest-sum/
+
+### 47. Painter's Partition Problem
+### https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
