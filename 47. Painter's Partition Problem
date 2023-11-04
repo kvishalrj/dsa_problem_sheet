@@ -1,0 +1,28 @@
+def numberOfUnits(boards:list, mid:int):
+    s = 0
+    c = 1
+    for e in boards:
+        if s+e<=mid:
+            s += e
+        else:
+            s = e
+            c += 1
+    return c
+
+
+def findLargestMinDistance(boards:list, k:int):
+    # Write your code here
+    # Return an integer
+    l = max(boards)
+    h = sum(boards)
+    ans = 0
+    while l<=h:
+        mid = (l+h)//2
+        co = numberOfUnits(boards, mid)
+        if co<=k:
+            ans = mid
+            h = mid - 1
+        else:
+            l = mid + 1
+    
+    return ans
