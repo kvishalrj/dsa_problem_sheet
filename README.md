@@ -141,3 +141,6 @@ DSA problem sheet solution in python
 
 ### 47. Painter's Partition Problem
 ### https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+### 48. Median of Two Sorted Arrays
+### https://leetcode.com/problems/median-of-two-sorted-arrays/
