@@ -144,3 +144,6 @@ DSA problem sheet solution in python
 
 ### 48. Median of Two Sorted Arrays
 ### https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+### 49. K-th Element of Two Sorted Arrays
+### https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
