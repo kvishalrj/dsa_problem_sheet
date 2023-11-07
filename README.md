@@ -147,3 +147,6 @@ DSA problem sheet solution in python
 
 ### 49. K-th Element of Two Sorted Arrays
 ### https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+### 50. Row with max 1s
+### https://www.codingninjas.com/studio/problems/row-of-a-matrix-with-maximum-ones_982768?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
