@@ -1,0 +1,35 @@
+"""
+    Time Complexity: O(N * M)
+    Space Complexity: O(1)
+
+    Where N is the number of rows and M is the number of columns in the given matrix.
+"""
+def lowerBound(mat: [[int]], m: int, x: int) -> int:
+    l = 0
+    h = m - 1
+    ind = m
+    while l<=h:
+        mid = (l+h)//2
+        if mat[mid]>=x:
+            h = mid - 1
+            ind = mid
+        else:
+            l = mid + 1
+    return ind
+
+
+def rowWithMax1s(matrix: [[int]], n: int, m: int) -> int:
+
+    #    maxCount stores the maximum number of 1s found till now and ans is the index of that particular row.
+    maxCount = 0
+    ind = -1
+
+    for i in range(n):
+        #    Count for number of ones for the current row.
+        co = m - lowerBound(matrix[i], m, 1)
+        if co > maxCount:
+            ind = i
+            maxCount = co
+
+    #    Return the row with maximum number of ones.
+    return ind
