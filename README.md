@@ -150,3 +150,6 @@ DSA problem sheet solution in python
 
 ### 50. Row with max 1s
 ### https://www.codingninjas.com/studio/problems/row-of-a-matrix-with-maximum-ones_982768?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+### 51. Search a 2D Matrix
+### https://leetcode.com/problems/search-a-2d-matrix/
