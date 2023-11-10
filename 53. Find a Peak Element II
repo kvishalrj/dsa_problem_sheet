@@ -1,0 +1,31 @@
+class Solution:
+    def maxElement(self, mat: List[List[int]], mid: int, n: int) -> List[int]:
+        s = -1
+        ind = -1
+        for i in range(n):
+            if mat[i][mid]>s:
+                s = mat[i][mid]
+                ind = i
+        return ind
+
+
+    def findPeakGrid(self, mat: List[List[int]]) -> List[int]:
+        n = len(mat)
+        m = len(mat[0])
+        l = 0
+        h = m - 1
+
+        while l<=h:
+            mid = (l+h)//2
+            ind = self.maxElement(mat, mid, n)
+            left = mat[ind][mid-1] if mid-1>=0 else -1
+            right = mat[ind][mid+1] if mid+1<=m-1 else -1
+
+            if mat[ind][mid]>left and mat[ind][mid]>right:
+                return [ind, mid]
+            elif mat[ind][mid]<left:
+                h = mid - 1
+            else:
+                l = mid + 1
+
+        return [-1, -1]        
