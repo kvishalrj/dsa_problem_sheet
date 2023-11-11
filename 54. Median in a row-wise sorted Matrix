@@ -1,0 +1,47 @@
+def upperBound(mat: [int], n: int, x: int) -> int:
+    l = 0
+    h = n - 1
+    ans = n
+    
+    while l<=h:
+        mid = (l+h)//2
+
+        if mat[mid]>x:
+            ans = mid
+            h = mid - 1
+        else:
+            l = mid + 1
+            
+    return ans
+
+
+def smallEqual(matrix: [[int]], m: int, n: int, mid: int) -> int:
+    c = 0
+    for i in range(m):
+        c += upperBound(matrix[i], n, mid)
+    return c
+
+
+def median(matrix: [[int]], m: int, n: int) -> int:
+    # Write your code here.
+    l = -999999999
+    h = 999999999
+
+    for i in range(m):
+        l = min(l, matrix[i][0])
+        h = max(h, matrix[i][n-1])
+
+    req = (m*n)//2
+
+    while l<=h:
+        mid = (l+h)//2
+        co = smallEqual(matrix, m, n, mid)
+        if co<=req:
+            l = mid + 1
+        else:
+            h = mid - 1
+    
+    return l
+
+        
+
