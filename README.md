@@ -159,3 +159,6 @@ DSA problem sheet solution in python
 
 ### 53. Find a Peak Element II
 ### https://leetcode.com/problems/find-a-peak-element-ii/
+
+### 54. Median in a row-wise sorted Matrix
+### https://www.codingninjas.com/studio/problems/median-of-a-row-wise-sorted-matrix_1115473?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
