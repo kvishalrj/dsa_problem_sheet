@@ -162,3 +162,6 @@ DSA problem sheet solution in python
 
 ### 54. Median in a row-wise sorted Matrix
 ### https://www.codingninjas.com/studio/problems/median-of-a-row-wise-sorted-matrix_1115473?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
+### 55. Remove Outermost Parentheses
+### https://leetcode.com/problems/remove-outermost-parentheses/
