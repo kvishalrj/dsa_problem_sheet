@@ -171,3 +171,6 @@ DSA problem sheet solution in python
 
 ### 57. Largest Odd Number in String
 ### https://leetcode.com/problems/largest-odd-number-in-string/
+
+### 58. Longest Common Prefix
+### https://leetcode.com/problems/longest-common-prefix/
