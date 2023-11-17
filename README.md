@@ -174,3 +174,6 @@ DSA problem sheet solution in python
 
 ### 58. Longest Common Prefix
 ### https://leetcode.com/problems/longest-common-prefix/
+
+### 59. Isomorphic Strings
+### https://leetcode.com/problems/isomorphic-strings/
