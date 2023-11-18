@@ -177,3 +177,6 @@ DSA problem sheet solution in python
 
 ### 59. Isomorphic Strings
 ### https://leetcode.com/problems/isomorphic-strings/
+
+### 60. Rotate String
+### https://leetcode.com/problems/rotate-string/description/
