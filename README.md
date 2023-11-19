@@ -180,3 +180,6 @@ DSA problem sheet solution in python
 
 ### 60. Rotate String
 ### https://leetcode.com/problems/rotate-string/description/
+
+### 61. Valid Anagram
+### https://leetcode.com/problems/valid-anagram/description/
