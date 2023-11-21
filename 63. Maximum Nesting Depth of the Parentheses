@@ -1,0 +1,17 @@
+class Solution:
+    def maxDepth(self, s: str) -> int:
+        st = []
+        maxi = 0
+        for e in s:
+            if e=='(':
+                st.append(e)
+                if len(st) > maxi:
+                    maxi = len(st)
+            elif e==')':
+                st.pop(-1)
+
+        return maxi
+
+        
+
+        
