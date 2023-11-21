@@ -186,3 +186,6 @@ DSA problem sheet solution in python
 
 ### 62. Sort Characters By Frequency
 ### https://leetcode.com/problems/sort-characters-by-frequency/
+
+### 63. Maximum Nesting Depth of the Parentheses
+### https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
