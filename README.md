@@ -192,3 +192,6 @@ DSA problem sheet solution in python
 
 ### 64. Roman to Integer
 ### https://leetcode.com/problems/roman-to-integer/
+
+### 65. String to Integer (atoi)
+### https://leetcode.com/problems/string-to-integer-atoi/
