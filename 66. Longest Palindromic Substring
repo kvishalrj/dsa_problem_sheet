@@ -1,0 +1,22 @@
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        # ans = ''
+        # n = len(s)
+        
+        # for i in range(n+1):
+        #     j = i+1
+        #     while j<n+1:
+        #         st = s[i:j]
+        #         if st==st[::-1]:
+        #             if len(st)>len(ans):
+        #                 ans = st
+        #         j += 1
+        
+        # return ans
+        ans = ''
+        for l in range(0,len(s)):
+            for r in range(l+1+len(ans),len(s)+1):
+                word = s[l:r]
+                if word == word[::-1]:
+                    ans = word
+        return ans
