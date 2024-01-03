@@ -195,3 +195,6 @@ DSA problem sheet solution in python
 
 ### 65. String to Integer (atoi)
 ### https://leetcode.com/problems/string-to-integer-atoi/
+
+### 66. Longest Palindromic Substring
+### https://leetcode.com/problems/longest-palindromic-substring/
