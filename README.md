@@ -198,3 +198,6 @@ DSA problem sheet solution in python
 
 ### 66. Longest Palindromic Substring
 ### https://leetcode.com/problems/longest-palindromic-substring/
+
+### 67. Sum of Beauty of All Substrings
+### https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
