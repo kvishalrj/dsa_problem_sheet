@@ -204,3 +204,6 @@ DSA problem sheet solution in python
 
 ### 68. Reverse Words in a String
 ### https://leetcode.com/problems/reverse-words-in-a-string/
+
+### 69. Delete Node in a Linked List
+### https://leetcode.com/problems/delete-node-in-a-linked-list/description/
