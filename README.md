@@ -210,3 +210,6 @@ DSA problem sheet solution in python
 
 ### 70. Middle of the Linked List
 ### https://leetcode.com/problems/middle-of-the-linked-list/
+
+### 71. Reverse Linked List
+### https://leetcode.com/problems/reverse-linked-list/description/
