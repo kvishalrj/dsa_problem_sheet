@@ -213,3 +213,6 @@ DSA problem sheet solution in python
 
 ### 71. Reverse Linked List
 ### https://leetcode.com/problems/reverse-linked-list/description/
+
+### 72. Linked List Cycle
+### https://leetcode.com/problems/linked-list-cycle/description/
