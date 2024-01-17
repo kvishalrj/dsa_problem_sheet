@@ -219,3 +219,6 @@ DSA problem sheet solution in python
 
 ### 73. Linked List Cycle II
 ### https://leetcode.com/problems/linked-list-cycle-ii/description/
+
+### 74. Palindrome Linked List
+### https://leetcode.com/problems/palindrome-linked-list/description/
