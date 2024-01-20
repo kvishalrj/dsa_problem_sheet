@@ -222,3 +222,6 @@ DSA problem sheet solution in python
 
 ### 74. Palindrome Linked List
 ### https://leetcode.com/problems/palindrome-linked-list/description/
+
+### 75. Odd Even Linked List
+### https://leetcode.com/problems/odd-even-linked-list/description/
